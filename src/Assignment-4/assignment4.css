@@ -6,7 +6,7 @@ width: 100%;
 height: 100%;
 }
 body{
-    background:pink;
+    background:none;
     font-family: 'Raleway', sans-serif;
 }
 header {
@@ -21,7 +21,7 @@ header {
   header h1 {
     float: left;
     text-indent: -9999px;
-    background: url('imagesass4/dog1.jpg') no-repeat;
+    background: url('imagesass4/logo.png') no-repeat;
     height:30px;
     border-radius:50%;
     width:50px;
@@ -36,7 +36,7 @@ nav li {
     padding: 17px 10px;
   }
   nav li:hover {
-    background: #3F8DA7;
+    background: #a7833f;
     color: white;
     cursor: pointer;
   }
@@ -99,7 +99,7 @@ nav li {
   }
   .three-col a:hover{
     color:whitesmoke;
-    background-color:#0ABE94;
+    background-color:#be5b0a;
   }
   footer{
   text-align:center;
