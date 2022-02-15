@@ -5,3 +5,26 @@
 width: 100%;
 height: 100%;
 }
+.First,.Second{
+    display:inline-block;
+    width:40%;
+}
+img{
+    width:100%;
+}
+#list1{
+    float:left;
+    font-size: large;
+    margin-top:250px;
+    margin-left:100px;
+    
+ }
+ #list2{
+     float:right;
+     font-size: large;
+     margin-top:250px;   
+     margin-right:150px;
+  }
+
+
+
